@@ -32,9 +32,9 @@ El resultado son cuatro dashboards interactivos en Tableau Public, con una palet
 | Dataset | Fuente |
 |---|---|
 | Episodios, directores, rating IMDb | Datos reales (IMDb / fuentes públicas) |
-| Audiencia por episodio (millones) | Datos reales (Nielsen / Wikipedia) |
-| Gasto en café por personaje | Generado con IA generativa |
-| Tiempo en el Central Perk | Generado con IA generativa |
+| Audiencia por episodio (millones) | Datos reales (Nielsen) |
+| Gasto en café por personaje | Generado con IA generativa a partir de fuentes reales |
+| Tiempo en el Central Perk | Generado con IA generativa a partir de fuentes reales |
 | Apariciones de estrellas invitadas | Generado con IA generativa a partir de fuentes reales |
 
 > Los datasets generados con IA fueron construidos recopilando información real dispersa en múltiples fuentes y estructurándola en CSV. El criterio editorial — qué datos son razonables, verificables o inferibles — forma parte del proceso.
@@ -84,9 +84,9 @@ The result is four interactive Tableau Public dashboards with a custom color pal
 | Dataset | Source |
 |---|---|
 | Episodes, directors, IMDb rating | Real data (IMDb / public sources) |
-| Viewership per episode (millions) | Real data (Nielsen / Wikipedia) |
-| Coffee spending per character | AI-generated |
-| Time spent at Central Perk | AI-generated |
+| Viewership per episode (millions) | Real data (Nielsen) |
+| Coffee spending per character | AI-generated from real sources |
+| Time spent at Central Perk | AI-generated from real sources |
 | Guest star appearances | AI-generated from real sources |
 
 > AI-generated datasets were built by gathering real but scattered information from multiple sources and structuring it into CSVs. Editorial judgment — determining what data is reasonable, verifiable, or defensibly inferred — is part of the process.
