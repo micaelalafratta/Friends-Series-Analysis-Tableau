@@ -8,7 +8,7 @@
 
 ### Descripción
 
-Análisis visual de una de las series más exitosas de la historia de la televisión. El proyecto combina datos reales de audiencia, dirección y producción con datasets generados mediante IA generativa para responder preguntas que las fuentes oficiales no pueden: ¿quién gasta más en café? ¿cuánto tiempo pasan los personajes en el Central Perk? ¿quién dice más veces su frase icónica?
+Análisis visual de una de las series más exitosas de la historia de la televisión. El proyecto combina datos reales de audiencia, dirección y producción con datasets generados mediante IA generativa para recopilar detalles como: ¿quién gasta más en café? ¿cuánto tiempo pasan los personajes en el Central Perk? ¿quién dice más veces su frase icónica?
 
 El resultado son cuatro dashboards interactivos en Tableau Public, con una paleta de color personalizada inspirada en el universo visual de la serie.
 
@@ -60,7 +60,7 @@ El resultado son cuatro dashboards interactivos en Tableau Public, con una palet
 
 ### Description
 
-Visual analysis of one of the most successful shows in television history. The project combines real viewership, production, and directing data with AI-generated datasets to answer questions official sources can't: who spends the most on coffee? How long do the characters actually spend at Central Perk? Who says their iconic catchphrase the most?
+Visual analysis of one of the most successful shows in television history. The project combines real viewership, production, and directing data with AI-generated datasets to answer detailed questions like: who spends the most on coffee? How long do the characters actually spend at Central Perk? Who says their iconic catchphrase the most?
 
 The result is four interactive Tableau Public dashboards with a custom color palette inspired by the show's visual world.
 
